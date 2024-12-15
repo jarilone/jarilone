@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jarilone
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning python for data science
-- 💞️ I’m looking to collaborate on a data science project
+- 👀 I’m interested in Frontend Development
+- 🌱 I’m currently learning Figma, HTML, CSS and Javascript
+- 💞️ I’m looking to collaborate on any project involving frontend
 - 📫 How to reach me - email- ritdajari@gmail.com
 
 <!---
